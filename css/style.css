@@ -39,11 +39,11 @@ a {
 }
 
 a:hover {
-	color: #53b5aa;
+	color: #004876;
 }
 
 #site-header h1 span {
-	color: #53b5aa;
+	color: #004876;
 }
 
 #site-header h1 span.last-span {
@@ -84,7 +84,7 @@ a:hover {
 }
 
 #cart a {
-	color: #53b5aa;
+	color: #004876;
 	text-decoration: none;
 
 	-webkit-transition: color .2s linear;
@@ -148,7 +148,7 @@ a:hover {
 }
 
 .product header h3 {
-	background: #53b5aa;
+	background: #004876;
 	color: #fff;
 	font-size: 22px;
 	font-weight: 300;
@@ -180,7 +180,7 @@ a:hover {
 }
 
 .product h1 {
-	color: #53b5aa;
+	color: #004876;
 	font-size: 25px;
 	font-weight: 300;
 	margin: 17px 0 20px 0;
@@ -204,7 +204,7 @@ a:hover {
 }
 
 .product footer .full-price {
-	background: #53b5aa;
+	background: #004876;
 	color: #fff;
 	float: right;
 	font-size: 22px;
@@ -247,7 +247,7 @@ a:hover {
 }
 
 .qt-plus:hover, .qt-minus:hover {
-	background: #53b5aa;
+	background: #004876;
 	color: #fff;
 	cursor: pointer;
 }
@@ -300,7 +300,7 @@ a:hover {
 }
 
 .btn {
-	background: #53b5aa;
+	background: #004876;
 	border: 1px solid #999;
 	border-style: none none solid none;
 	cursor: pointer;
@@ -321,7 +321,7 @@ a:hover {
 
 .btn:hover {
 	color: #fff;
-	background: #429188;
+	background: #004876;
 }
 
 .type {
